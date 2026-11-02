@@ -1,0 +1,2 @@
+# secbyte-digital-forensics-disk-imaging-devsecops-pipeline-security-ctf-labs
+A practical collection of cybersecurity CTF labs covering digital evidence handling (disk imaging deep dives, file recovery carving, timeline analysis, chain of custody verification) and DevSecOps security (pipeline hardening, infrastructure-as-code scanning, HashiCorp Vault secret management, container runtime escape detection).
